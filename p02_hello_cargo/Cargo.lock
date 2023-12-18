@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "hangman"
+name = "p02_hello_cargo"
 version = "0.1.0"

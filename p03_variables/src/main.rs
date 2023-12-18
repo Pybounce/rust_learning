@@ -17,7 +17,7 @@ fn plus_one(x: i32) -> i32 {
     return x + 1;
 }
 
-fn what_type() {
+fn what_type() {    //making the compiler throw an error can tell you the type - the cheese has already begun.
     let mut strVar = "s";
     strVar = "asfasf";
     strVar.yeet();
